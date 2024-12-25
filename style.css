@@ -1,0 +1,21 @@
+h1{
+text-align: center;
+font-size: 100px; 
+text-transform: uppercase; 
+
+
+}
+ body{
+    background-color: blue;
+}
+.name{
+    text-align: center;
+    text-transform: uppercase;
+}
+h1:hover{
+    color: white;
+    
+}
+.name:hover{
+    color: #ffff;
+}
